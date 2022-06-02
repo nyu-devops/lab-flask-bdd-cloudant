@@ -8,6 +8,8 @@ This repository is a lab from the *NYU DevOps and Agile Methodologies* graduate 
 
 The sample code is using [Flask microframework](http://flask.pocoo.org/) and is intented to test the Python support on [IBM Cloud](https://cloud.ibm.com/) environment which is based on [Cloud Foundry](https://www.cloudfoundry.org). It also uses [CouchDB](http://couchdb.apache.org) as a database for storing JSON objects.
 
+There is a sibling repository that uses PostgreSQL which is the original [lab-flask-bdd](https://github.com/nyu-devops/lab-flask-bdd) project that uses the same model as the [lab-flask-tdd](https://github.com/nyu-devops/lab-flask-tdd) project for continuity.
+
 ## Introduction
 
 One of my favorite quotes is:
